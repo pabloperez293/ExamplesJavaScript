@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+    border-radius: 2px;
+}
+.caja{
+    box-shadow: 20px 2px 5px #999;
+
+}
